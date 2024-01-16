@@ -4,7 +4,8 @@
   "description": "",
   "main": "btc.js",
   "scripts": {
-    "dev": "clear && nodemon btc.js",
+    "dev": "clear && node btc.js",
+    "start": "clear && nodemon btc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
